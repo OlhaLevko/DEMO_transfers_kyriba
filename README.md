@@ -37,7 +37,7 @@ Upload this file in the content folder:
 
 Then you can run all application: 
 
-![run.png](step2.png)
+![run.png](run.png)
 
 or execute separated ceil:
 
