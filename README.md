@@ -13,7 +13,7 @@ Opening .ipynb files requires:
 
 ## Installation
 
-1.  Copy file to your computer copy link of the repository, open Command Prompt, go to the location where file will be copied and execute git clone command:
+1.  Copy the repository link, open Command Prompt, go to the location where file will be copied and execute git clone command:
 
 ```shell
 git clone https://github.com/OlhaLevko/DEMO_transfers_kyriba.git
