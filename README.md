@@ -27,7 +27,7 @@ git clone https://github.com/OlhaLevko/DEMO_transfers_kyriba.git
 
 4. Open the jupyter notebook with Google Collab.
 
-5. In the left menu open Files ![files.png](files.png),  find 'content' folder and choose Upload. Select config.csv file from location where file has been saved.
+5. In the left menu open Files ![files.png](files.png),  find 'content' folder and upload config.csv file into this folder.
 
 6. Run application. You can run all application: Runtime -> Run all, or execute separated cell.
 
